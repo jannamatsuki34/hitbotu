@@ -6,10 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-
-<a href="https://hatebeinsober.com/" title="ResimLink - Resim Yükle"><img src="https://i.hizliresim.com/9f6siyj.jpg" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
-<a href="https://hatebeinsober.com/">
-    <img src="https://i.hizliresim.com/ktr97az.jpg" />
+<a href="https://hizliresim.com/6qldyxu"><img src="https://i.hizliresim.com/6qldyxu.jpg" alt="Resim Yükle"></a>
+<a href="https://hizliresim.com/ktr97az"><img src="https://i.hizliresim.com/ktr97az.jpg" alt="Resim Yükle"></a>
 </a>
 </a>
 
